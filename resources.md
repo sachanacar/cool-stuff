@@ -131,6 +131,12 @@ https://github.com/phunware
 
 [Documentation and Q&A Space](https://eurl.io/#rJuxXjC8B)
 
+### Umbrella
+
+[APIs](https://docs.umbrella.com/umbrella-api/docs/list-of-apis)
+
+[Libraries and Code Sample](https://github.com/CiscoDevNet/cloud-security)
+
 ### DevNet Resources
 DevNet has a lot of additional resources...
 
